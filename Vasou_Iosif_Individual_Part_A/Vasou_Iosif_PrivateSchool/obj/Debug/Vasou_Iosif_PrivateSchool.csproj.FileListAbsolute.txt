@@ -1,0 +1,7 @@
+C:\Users\iosif\source\repos\Vasou_Iosif_PrivateSchool\Vasou_Iosif_PrivateSchool\bin\Debug\Vasou_Iosif_PrivateSchool.exe.config
+C:\Users\iosif\source\repos\Vasou_Iosif_PrivateSchool\Vasou_Iosif_PrivateSchool\bin\Debug\Vasou_Iosif_PrivateSchool.exe
+C:\Users\iosif\source\repos\Vasou_Iosif_PrivateSchool\Vasou_Iosif_PrivateSchool\bin\Debug\Vasou_Iosif_PrivateSchool.pdb
+C:\Users\iosif\source\repos\Vasou_Iosif_PrivateSchool\Vasou_Iosif_PrivateSchool\obj\Debug\Vasou_Iosif_PrivateSchool.csprojAssemblyReference.cache
+C:\Users\iosif\source\repos\Vasou_Iosif_PrivateSchool\Vasou_Iosif_PrivateSchool\obj\Debug\Vasou_Iosif_PrivateSchool.csproj.CoreCompileInputs.cache
+C:\Users\iosif\source\repos\Vasou_Iosif_PrivateSchool\Vasou_Iosif_PrivateSchool\obj\Debug\Vasou_Iosif_PrivateSchool.exe
+C:\Users\iosif\source\repos\Vasou_Iosif_PrivateSchool\Vasou_Iosif_PrivateSchool\obj\Debug\Vasou_Iosif_PrivateSchool.pdb
